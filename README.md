@@ -1,5 +1,5 @@
 ﻿# Pixel Art Maker
-## One of many Front-End Developer Udacity's nanodegree projects
+##  A one-page web application
 The task is to create a one-page web application that lets users draw a pixel image on a customizable panel.
 
 The starter code, is given (it is including HTML and CSS) to start building the application. The JavaScript code lets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
