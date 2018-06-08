@@ -9,5 +9,5 @@ The starter code, is given (it is including HTML and CSS) to start building the 
 >> Choose a color.
 >> Click a cell in the grid to fill that cell with the chosen color.
 
-The primary task in this project the implementation of the makeGrid() function, that dynamically creates a grid that the user can interact with.
+The primary task in this project is the implementation of the makeGrid() function, that dynamically creates a grid that the user can interact with.
 
